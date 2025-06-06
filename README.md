@@ -44,23 +44,16 @@ Welcome to my GitHub! I'm a passionate and dedicated developer currently buildin
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishkumarsingh&layout=compact&theme=calm" alt="Top Languages" />
-</p>
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/satishkumarsingh" target="_blank">
+  <a href="https://www.linkedin.com/in/satish-singh-8b1786273" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://facebook.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
-  </a>
+ 
 </p>
 
 ---
