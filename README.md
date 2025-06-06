@@ -15,8 +15,7 @@ Welcome to my GitHub! I'm a passionate and dedicated developer currently buildin
   - Build and deploy multiple full-stack apps
   - Deepen understanding of RESTful APIs and modern frontend frameworks
 
-- 📫 Email: [satishkumar@example.com](i.sksingh113@gmail.com)
-- 🛠 Working on: [Custom E-Commerce Platform](https://github.com/FavorSelect/backend)
+
 - 🤝 Open to: **Remote internships, freelance projects, or collaborations**
 
 ---
