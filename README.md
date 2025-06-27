@@ -1,20 +1,27 @@
 # 👋 Hi, I'm Satish Kumar Singh
 
 💻 Backend Developer |  
-🎓 Currently Studying in Information Technology  branch At IIEST, Shibpur|  
+🎓 Currently Studying Information Technology at IIEST, Shibpur |  
 🌍 Based in India
 
-Welcome to my GitHub! I'm a passionate and dedicated developer currently building my skills in backend  development.
+Welcome to my GitHub! I'm a passionate and dedicated developer currently building my skills in backend development.
+
 ---
 
 ## 👨‍💻 About Me
 
-- ⚡ Proficient in: **MongoDB, MySql, Express.js,Node.js**
+- ⚡ Proficient in: **MongoDB, MySQL, Express.js, Node.js**
+- 🚀 Projects I've built so far:
+  - 🛍️ [**FavorSelect**](https://favorselect.com) — A full-featured e-commerce website for Turkish clients
+  - 💸 [**Zaroorat**](https://zaroorat.xyz) — A crowdfunding platform for Saudi and Pakistani clients
+  - 🚀 [**Gausej**](https://gausej.tech) — Tech startup platform for entrepreneurs and innovators
+  - 🎓 [**ICCHe**](https://icche.vercel.app) — Website for my college society at IIEST, Shibpur
+  - ⚖️ [**LegalDocs**](https://legaldocs.in) — Document generation platform for an Indian legal client
+
 - 🎯 2025 Goals:
   - Contribute to real-world open-source projects
   - Build and deploy multiple full-stack apps
   - Deepen understanding of RESTful APIs and modern frontend frameworks
-
 
 - 🤝 Open to: **Remote internships, freelance projects, or collaborations**
 
@@ -44,16 +51,12 @@ Welcome to my GitHub! I'm a passionate and dedicated developer currently buildin
 
 ---
 
-
----
-
 ## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/satish-singh-8b1786273" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
- 
 </p>
 
 ---
