@@ -15,8 +15,8 @@ Welcome to my GitHub! I'm a passionate and dedicated developer currently buildin
   - 🛍️ [**FavorSelect**](https://favorselect.com) — A full-featured e-commerce website for Turkish clients
   - 💸 [**Zaroorat**](https://zaroorat.xyz) — A crowdfunding platform for Saudi and Pakistani clients
   - 🚀 [**Gausej**](https://gausej.tech) — Tech startup platform for entrepreneurs and innovators
-  - 🎓 [**ICCHe**](https://icche.vercel.app) — Website for my college society at IIEST, Shibpur
-  - ⚖️ [**LegalDocs**](https://legaldocs.in) — Document generation platform for an Indian legal client
+  - 🎓 [**ICCHE**](https://icche.vercel.app) — Website for my college society at IIEST, Shibpur
+  - ⚖️ [**LegalDocs**](https://frontend-black-nine-35.vercel.app) — Document generation platform for an Indian Lawyer client
 
 - 🎯 2025 Goals:
   - Contribute to real-world open-source projects
