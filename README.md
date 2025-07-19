@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Satish Kumar Singh — <a href="https://satish-portfolio.com" target="_blank">Portfolio <i class="fas fa-arrow-up-right-from-square"></i></a></h1>
+# 👋 Hi, I'm Satish Kumar Singh — [Portfolio 🔗↗️](https://satishdev.pitbit.me)
 
 💻 Full Stack Developer |  
 🎓 Currently Studying Information Technology at IIEST, Shibpur |  
