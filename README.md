@@ -13,12 +13,12 @@ I'm a passionate developer and DevOps enthusiast , currently pursuing my studies
 
 - ⚡ Proficient in: **MongoDB, MySQL, Express.js, Node.js, Typescript,Javascript, flask, fastApi, ReactJs, NextJs**
 - 🚀 Projects I've built so far:
- - 🛍️ <a href="https://favorselect.com" target="_blank" rel="noopener noreferrer"><strong>FavorSelect</strong></a> — A full-featured e-commerce website for Turkish clients  
-- 💸 <a href="https://zaroorat.xyz" target="_blank" rel="noopener noreferrer"><strong>Zaroorat</strong></a> — A crowdfunding platform for Saudi and Pakistani clients  
-- 🚀 <a href="https://gausej.tech" target="_blank" rel="noopener noreferrer"><strong>Gausej</strong></a> — Tech startup platform for entrepreneurs and innovators  
-- 🎓 <a href="https://icche.vercel.app" target="_blank" rel="noopener noreferrer"><strong>ICCHE</strong></a> — Website for my college society at IIEST, Shibpur  
-- ⚖️ <a href="https://probateform.pixtbit.me" target="_blank" rel="noopener noreferrer"><strong>LegalDocs</strong></a> — Document generation platform for an Indian client
-- 🎓 <a href="https://satishdev.me" target="_blank" rel="noopener noreferrer"><strong>Job-Hunt</strong></a> — Plateform where user find related to their relevent skills
+ - 🛍️ <a href="https://favorselect.com" target="_blank" rel="noopener noreferrer"><strong>FavorSelect ↗️</strong></a> — A full-featured e-commerce website for Turkish clients  
+- 💸 <a href="https://zaroorat.xyz" target="_blank" rel="noopener noreferrer"><strong>Zaroorat ↗️</strong></a> — A crowdfunding platform for Saudi and Pakistani clients  
+- 🚀 <a href="https://gausej.tech" target="_blank" rel="noopener noreferrer"><strong>Gausej ↗️</strong></a> — Tech startup platform for entrepreneurs and innovators  
+- 🎓 <a href="https://icche.vercel.app" target="_blank" rel="noopener noreferrer"><strong>ICCHE ↗️</strong></a> — Website for my college society at IIEST, Shibpur  
+- ⚖️ <a href="https://probateform.pixtbit.me" target="_blank" rel="noopener noreferrer"><strong>LegalDocs ↗️</strong></a> — Document generation platform for an Indian client
+- 🎓 <a href="https://satishdev.me" target="_blank" rel="noopener noreferrer"><strong>Job-Hunt ↗️</strong></a> — Plateform where user find related to their relevent skills
 
 
 - 🎯 2025 Goals:
