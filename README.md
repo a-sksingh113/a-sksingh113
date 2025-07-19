@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a passionate and dedicated developer currently buildin
 - 🚀 <a href="https://gausej.tech" target="_blank" rel="noopener noreferrer"><strong>Gausej</strong></a> — Tech startup platform for entrepreneurs and innovators  
 - 🎓 <a href="https://icche.vercel.app" target="_blank" rel="noopener noreferrer"><strong>ICCHE</strong></a> — Website for my college society at IIEST, Shibpur  
 - ⚖️ <a href="https://probateform.pixtbit.me" target="_blank" rel="noopener noreferrer"><strong>LegalDocs</strong></a> — Document generation platform for an Indian client
-- - ⚖️ <a href="https://satishdev.me" target="_blank" rel="noopener noreferrer"><strong>Job-Hunt</strong></a> — Plateform where user find related to their relevent skills
+- 🎓 <a href="https://satishdev.me" target="_blank" rel="noopener noreferrer"><strong>Job-Hunt</strong></a> — Plateform where user find related to their relevent skills
 
 
 - 🎯 2025 Goals:
