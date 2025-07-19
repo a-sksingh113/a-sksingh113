@@ -67,6 +67,9 @@ I'm a passionate developer and DevOps enthusiast , currently pursuing my studies
   <a href="https://www.linkedin.com/in/satish-singh-8b1786273" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.reddit.com/u/One-Flight-6025/s/nJyK1Dq0yE" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" />
+  </a>
 </p>
 
 ---
