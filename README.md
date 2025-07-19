@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Satish Kumar Singh
 
-💻 Backend Developer |  
+💻 Full Stack Developer |  
 🎓 Currently Studying Information Technology at IIEST, Shibpur |  
-🌍 Based in India
+🌍 Based on India
 
-Welcome to my GitHub! I'm a passionate and dedicated developer currently building my skills in backend development.
+Welcome to my GitHub!
+I'm a passionate developer and DevOps enthusiast , currently pursuing my studies and doing freelance work in web development and AI.I’m also actively involved in competitive programming, which helps me sharpen my problem-solving skills and write efficient code..
 
 ---
 
 ## 👨‍💻 About Me
 
-- ⚡ Proficient in: **MongoDB, MySQL, Express.js, Node.js**
+- ⚡ Proficient in: **MongoDB, MySQL, Express.js, Node.js, Typescript,Javascript, flask, fastApi, ReactJs, NextJs**
 - 🚀 Projects I've built so far:
  - 🛍️ <a href="https://favorselect.com" target="_blank" rel="noopener noreferrer"><strong>FavorSelect</strong></a> — A full-featured e-commerce website for Turkish clients  
 - 💸 <a href="https://zaroorat.xyz" target="_blank" rel="noopener noreferrer"><strong>Zaroorat</strong></a> — A crowdfunding platform for Saudi and Pakistani clients  
